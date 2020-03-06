@@ -14,4 +14,4 @@
 
 **Thoughts**: I learned about GitHub's automated security updates. This really highlights the importance of version control and automated testing.
 
-**Link(s) to work**: [Meditation App](https://github.com/geewey/Mod-3-Project/
+**Link(s) to work**: [Meditation App](https://github.com/geewey/Mod-3-Project/)
