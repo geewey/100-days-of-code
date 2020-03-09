@@ -23,3 +23,11 @@
 **Thoughts**: Beware of global installs. Side effects include broken projects. I appreciate this as a good chance to deepen my PostgreSQL understanding.
 
 **Link(s) to work**: ["PostgreSQL blew up" tweet](https://twitter.com/geewey/status/1236498340071854081?s=20)
+
+### Day 4: March 8, 2020
+
+**Today's Progress**: Researching PostgreSQL database conflicts. Gathering potential fixes to attempt tomorrow.
+
+**Thoughts**: Trying to sort out if it's as simple as storing user and password data in environment variables, or if there are other complications.
+
+**Link(s) to work**: ["PostgreSQL investigation" tweet](https://twitter.com/geewey/status/1236872682718801920?s=20)
